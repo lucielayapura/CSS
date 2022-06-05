@@ -1,0 +1,17 @@
+.contenedor{
+    height: 300px;
+    border: 5px solid coral;
+    background-image: url("../HTML/img/Raton.jpg");
+    /*background-image: url("../HTML/img/perro.jpg");*/
+    background-repeat: no-repeat;
+    /*background-repeat: repeat;*/
+    /*background-repeat: repeat-y;*/
+    /*background-size: cover;*/ /*Cover estira la imagen para que me quepa a la largo*/
+    /*background-size: contain;*/
+    /*background-position: top;*/
+    /*background-position: right;*/
+    background-position: center;
+
+    /*SPRITE Se usa una sola imagen vertical con varias imagenes y se va mostrando 
+    la posición que yo quiera para alivianar y no usar tantas imágenes*/
+}

@@ -1,0 +1,27 @@
+
+.parrafo_naranja {               
+    color: orange;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+h2{
+
+    color:blueviolet;
+}
+
+.clase2 {
+    text-align:right;
+
+}
+.capa1 {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10;
+    margin: 10px;
+    width: 40%;
+    float: right
+    color red;
+}
